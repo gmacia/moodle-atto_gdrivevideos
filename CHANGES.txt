@@ -1,0 +1,2 @@
+Version 2020122600
+Adaptation of gdrivevideos atto icon plugin
