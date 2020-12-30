@@ -21,9 +21,9 @@ Follow these steps to install and configure the plugin:
 
 ## How to use
 
-Step 1. Get a sharing link for your video in google drive.
-Step 2. Just use the gdrivevideos icon button in the atto editor and complete the form. You will see how the video is automatically embedded. 
-Step 3. In case that the sharing of the video is restricted to certain users or group, you must log in to google to visualize it. 
+* Step 1. Get a sharing link for your video in google drive.
+* Step 2. Just use the gdrivevideos icon button in the atto editor and complete the form. You will see how the video is automatically embedded. 
+* Step 3. In case that the sharing of the video is restricted to certain users or group, you must log in to google to visualize it. 
 
 ## To do
 
