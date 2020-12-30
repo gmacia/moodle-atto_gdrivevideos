@@ -1,4 +1,4 @@
-# moodle_gdrivevideo
+# Moodle Atto Plugin for Google Drive Videos Insertion
 
 This is a plugin that allows to embed a video from google drive directly in the Atto Editor. The main features are: 
 
